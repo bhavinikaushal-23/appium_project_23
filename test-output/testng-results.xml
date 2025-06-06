@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-29T21:00:21 IST" name="Default suite" finished-at="2025-05-29T21:00:23 IST" duration-ms="1416">
+    <groups>
+    </groups>
+    <test started-at="2025-05-29T21:00:21 IST" name="Default test" finished-at="2025-05-29T21:00:23 IST" duration-ms="1416">
+      <class name="Extent_Report.ExtentReport_Code">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:21 IST" name="setReport" finished-at="2025-05-29T21:00:22 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method signature="doHELLO()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="doHELLO" finished-at="2025-05-29T21:00:22 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doHELLO -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="tearDown" finished-at="2025-05-29T21:00:22 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=doHELLO status=SUCCESS method=ExtentReport_Code.doHELLO()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="doLogin()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="doLogin" finished-at="2025-05-29T21:00:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="tearDown" finished-at="2025-05-29T21:00:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=doLogin status=SUCCESS method=ExtentReport_Code.doLogin()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="doLogin1()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="doLogin1" finished-at="2025-05-29T21:00:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin1 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="tearDown" finished-at="2025-05-29T21:00:22 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=doLogin1 status=SUCCESS method=ExtentReport_Code.doLogin1()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="EndReport()[pri:0, instance:Extent_Report.ExtentReport_Code@7d8704ef]" started-at="2025-05-29T21:00:22 IST" name="EndReport" finished-at="2025-05-29T21:00:23 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndReport -->
+      </class> <!-- Extent_Report.ExtentReport_Code -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
